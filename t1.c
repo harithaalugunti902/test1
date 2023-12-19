@@ -7,6 +7,9 @@ add();
   printf(sum=-"%d",a+b);
 }
 sub();
+{
+	printf("sub =%d",a-b);
+}
 div();
 mult();
-}
+}::
